@@ -2,7 +2,7 @@
   "vouchers": [
     {
       "id": 1,
-      "numero" : "AXVDC"
+      "numero" : "AXVDC",
       "descricao": "Post 1",
       "id_praca" : 1
     },
@@ -14,43 +14,43 @@
     },
     {
       "id": 1,
-      "numero" : "WXOFU"
+      "numero" : "WXOFU",
       "descricao": "Post 1",
       "id_praca" : 2
     },
     {
       "id": 1,
-      "numero" : "KEJGF"
+      "numero" : "KEJGF",
       "descricao": "Post 1",
       "id_praca" : 2
     },    
     {
       "id": 1,
-      "numero" : "GHUQJ"
+      "numero" : "GHUQJ",
       "descricao": "Post 1",
       "id_praca" : 3
     },
     {
       "id": 1,
-      "numero" : "VLRWE"
+      "numero" : "VLRWE",
       "descricao": "Post 1",
       "id_praca" : 3
     },    
     {
       "id": 1,
-      "numero" : "LDCGG"
+      "numero" : "LDCGG",
       "descricao": "Post 1",
       "id_praca" : 1
     },    
     {
       "id": 1,
-      "numero" : "GZYPC"
+      "numero" : "GZYPC",
       "descricao": "Post 1",
       "id_praca" : 1
     },    
     {
       "id": 1,
-      "numero" : "HOWLW"
+      "numero" : "HOWLW",
       "descricao": "Post 1",
       "id_praca" : 2
     },    
