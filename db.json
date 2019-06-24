@@ -54,5 +54,13 @@
       "descricao": "Post 1",
       "id_praca" : 2
     }    
+  ],
+  "paymentOptions":[
+     {
+      "id": 1,
+      "banco_id": 999,
+      "cc_numero" : "12345",
+      "cc_digito":  "1"
+     }     
   ]
 }
