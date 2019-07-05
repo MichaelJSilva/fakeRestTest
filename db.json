@@ -58,9 +58,27 @@
   "paymentOptions":[
      {
       "id": 1,
-      "banco_id": 999,
+      "description" : "Conta para carros",
+      "banco_id"  : 999,
+      "cc_agency" : 4450, 
       "cc_numero" : "12345",
-      "cc_digito":  "1"
-     }     
+      "cc_digito" : "1"
+     },
+     {
+      "id": 2,
+      "description" : "Conta para motos",
+      "banco_id"  : 999,
+      "cc_agency" : 4450, 
+      "cc_numero" : "12345",
+      "cc_digito" : "1"
+     },
+     {
+      "id": 3,
+      "description" : "Conta para veiculos pesados",
+      "banco_id"  : 999,
+      "cc_agency" : 4450, 
+      "cc_numero" : "12345",
+      "cc_digito" : "1"
+     }         
   ]
 }
