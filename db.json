@@ -80,5 +80,42 @@
       "cc_numero" : "12345",
       "cc_digito" : "1"
      }         
+  ],
+  "veiculos":[
+    {
+      "id": 1,
+      "placa": "ABC1234",
+      "numeroEixos": 4,
+      "altura": 1.40,
+      "chassi": "518651A5644SD5"
+    },
+    {
+      "id": 1,
+      "placa": "AOW2016",
+      "numeroEixos": 4,
+      "altura": 1.40,
+      "chassi": "518651A5644SD5"
+    },
+    {
+      "id": 1,
+      "placa": "BCD1234",
+      "numeroEixos": 4,
+      "altura": 1.40,
+      "chassi": "518651A5644SD5"
+    },
+    {
+      "id": 1,
+      "placa": "HOJ1280",
+      "numeroEixos": 4,
+      "altura": 1.40,
+      "chassi": "518651A5644SD5"
+    },
+    {
+      "id": 1,
+      "placa": "ZZZ1255",
+      "numeroEixos": 4,
+      "altura": 1.40,
+      "chassi": "518651A5644SD5"
+    }    
   ]
 }
